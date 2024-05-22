@@ -2,7 +2,7 @@ import { defineConfig } from "vite";
 import react from "@vitejs/plugin-react";
 
 export default defineConfig({
-  base: "/",
+  base: '/Movie-Search-App/', // Bu, repo adınızla aynı olmalı
   plugins: [react()],
   preview: {
     port: 8080,
