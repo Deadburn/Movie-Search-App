@@ -1,5 +1,7 @@
 # React + TypeScript Movie Search App
 
+[Site Demo](https://cihanalici.github.io/Movie-Search-App/)
+
 This is a simple movie search app built with React and TypeScript. It uses the [movieDB API](https://www.themoviedb.org/) to fetch movie data.
 
 ## Features
